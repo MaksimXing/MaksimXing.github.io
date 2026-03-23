@@ -3,7 +3,7 @@ layout: course
 title: Statistical Signal Processing & Inference
 description: A rigorous foundation in statistical estimation theory for the design of signal processing and machine learning algorithms, covering random signals, linear stochastic models, optimal estimators, and adaptive filters.
 instructor: Prof. Danilo Mandic
-year: 2024
+year: 2026
 term: Spring
 location: Imperial College London, Dept. of EEE
 course_id: statistical-signal-processing-and-inference

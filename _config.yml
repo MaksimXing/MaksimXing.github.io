@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: My Website
+title: "Huijun Xing (邢惠钧)"
 first_name: Huijun
 last_name: Xing
 contact_note: >
@@ -278,8 +278,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Xing]
+  first_name: [Huijun, H.]
 
   style: apa
   locale: en

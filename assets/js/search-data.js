@@ -413,12 +413,12 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/competition/";
             },},{id: "projects-short-ticketing-detection-with-cubic",
-          title: 'Short Ticketing Detection with Cubic',
+          title: 'Short Ticketing Detection with CUBIC',
           description: "AI-powered fare evasion detection framework analysing 6.5M journey records, with findings widely covered by media and translated into real-world deployment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cubic/";
             },},{id: "projects-characteristic-function-surrogates-with-sony",
-          title: 'Characteristic Function Surrogates with Sony',
+          title: 'Characteristic Function Surrogates with SONY',
           description: "Characteristic-function-based surrogate modelling for multi-modal neural and behavioural recordings, in collaboration with Sony Japan.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sony/";

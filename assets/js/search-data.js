@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Teaching assistant for signal processing and machine intelligence courses at Imperial College London.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -422,16 +422,16 @@ ninja.data = [{
           description: "Characteristic-function-based surrogate modelling for multi-modal neural and behavioural recordings, in collaboration with Sony Japan.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sony/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-adaptive-signal-processing-amp-machine-intelligence",
+          title: 'Adaptive Signal Processing &amp;amp; Machine Intelligence',
+          description: "An advanced course covering adaptive, multidimensional, spectral and neural estimators for real-world signals and streaming data — from the LMS algorithm to deep learning and tensor networks.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/teachings/adaptive-signal-processing-and-machine-intelligence/";
+            },},{id: "teachings-statistical-signal-processing-amp-inference",
+          title: 'Statistical Signal Processing &amp;amp; Inference',
+          description: "A rigorous foundation in statistical estimation theory for the design of signal processing and machine learning algorithms, covering random signals, linear stochastic models, optimal estimators, and adaptive filters.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/statistical-signal-processing-and-inference/";
             },},{
         id: 'social-email',
         title: 'email',

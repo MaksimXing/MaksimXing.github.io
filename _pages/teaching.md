@@ -2,14 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching assistant for signal processing and machine intelligence courses at Imperial College London.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+I serve as a Graduate Teaching Assistant in the Department of Electrical and Electronic Engineering at Imperial College London, supporting courses taught by [Prof. Danilo Mandic](https://www.commsp.ee.ic.ac.uk/~mandic/courses.htm). My responsibilities include leading tutorial sessions, assisting with MATLAB-based coursework, and providing academic support to students.
 
 {% include courses.liquid %}

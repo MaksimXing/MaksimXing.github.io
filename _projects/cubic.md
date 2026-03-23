@@ -2,7 +2,7 @@
 layout: page
 title: "Short Ticketing Detection with Cubic"
 description: AI-powered fare evasion detection framework analysing 6.5M journey records, with findings widely covered by media and translated into real-world deployment.
-img: assets/img/Project_preview/pub_cubic.png
+img: assets/img/project_preview/pub_cubic.png
 importance: 1
 category: Industry Cooperation
 ---
@@ -15,7 +15,7 @@ Yuyang Miao, Huijun Xing, Tony G. Constantinides, and Danilo P. Mandic.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Project_preview/pub_cubic.png" title="Short Ticketing Detection Framework" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/project_preview/pub_cubic.png" title="Short Ticketing Detection Framework" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 

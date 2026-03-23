@@ -2,7 +2,7 @@
 layout: page
 title: "Characteristic Function Surrogates with Sony"
 description: Characteristic-function-based surrogate modelling for multi-modal neural and behavioural recordings, in collaboration with Sony Japan.
-img: assets/img/Project_preview/proj_sony.png
+img: assets/img/project_preview/proj_sony.png
 importance: 2
 category: Industry Cooperation
 ---
@@ -13,7 +13,7 @@ category: Industry Cooperation
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/Project_preview/proj_sony.png" title="Characteristic Function Surrogates" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/project_preview/proj_sony.png" title="Characteristic Function Surrogates" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 

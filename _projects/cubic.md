@@ -1,15 +1,17 @@
 ---
 layout: page
-title: "Short Ticketing Detection with Cubic"
+title: "Short Ticketing Detection with CUBIC"
 description: AI-powered fare evasion detection framework analysing 6.5M journey records, with findings widely covered by media and translated into real-world deployment.
 img: assets/img/project_preview/pub_cubic.png
 importance: 1
 category: Industry Cooperation
+highlight_words:
+  - CUBIC
 ---
 
 ## Short Ticketing Detection Framework Analysis Report
 
-**A joint research project between [Cubic](https://www.cubic.com/) and independent researchers from [Imperial College London](https://www.imperial.ac.uk/)'s [AIDA Lab](https://www.aidalab.co.uk/).**
+**A joint research project between [<span style="color: var(--global-theme-color); font-weight: 700;">CUBIC</span>](https://www.cubic.com/) and independent researchers from [Imperial College London](https://www.imperial.ac.uk/)'s [AIDA Lab](https://www.aidalab.co.uk/).**
 
 Yuyang Miao, Huijun Xing, Tony G. Constantinides, and Danilo P. Mandic.
 

@@ -1,15 +1,17 @@
 ---
 layout: page
-title: "Characteristic Function Surrogates with Sony"
+title: "Characteristic Function Surrogates with SONY"
 description: Characteristic-function-based surrogate modelling for multi-modal neural and behavioural recordings, in collaboration with Sony Japan.
 img: assets/img/project_preview/proj_sony.png
 importance: 2
 category: Industry Cooperation
+highlight_words:
+  - SONY
 ---
 
 ## Characteristic Function Surrogates for Multi-Modal Recordings
 
-**A joint research project with [Sony](https://www.sony.com/) Japan (2025 – Present).**
+**A joint research project with [<span style="color: var(--global-theme-color); font-weight: 700;">SONY</span>](https://www.sony.com/) Japan (2025 – Present).**
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">

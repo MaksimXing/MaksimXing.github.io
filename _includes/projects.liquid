@@ -12,7 +12,7 @@
         %}
       {% endif %}
       <div class="card-body">
-        <h2 class="card-title">{{ project.title }}</h2>
+        <h2 class="card-title">{% if project.highlight_words %}{% assign rendered_title = project.title %}{% for word in project.highlight_words %}{% assign styled_word = '<span style="color: var(--global-theme-color); font-weight: 700;">' | append: word | append: '</span>' %}{% assign rendered_title = rendered_title | replace: word, styled_word %}{% endfor %}{{ rendered_title }}{% else %}{{ project.title }}{% endif %}</h2>
         <p class="card-text">{{ project.description }}</p>
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}

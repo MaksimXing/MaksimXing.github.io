@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-06'
 papers:
   W4j1qIYAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -38,7 +38,7 @@ papers:
     title: Over-the-air computation in OFDM systems with imperfect channel state information
     year: '2023'
   W4j1qIYAAAAJ:UeHWp8X0CEIC:
-    citations: 41
+    citations: 42
     title: Joint trajectory design and resource allocation in UAV-enabled heterogeneous MEC systems
     year: '2024'
   W4j1qIYAAAAJ:UebtZRa9Y70C:
@@ -50,7 +50,7 @@ papers:
     title: Intelligent reflecting surface aided mobile edge computing with rate-splitting multiple access
     year: '2024'
   W4j1qIYAAAAJ:WF5omc3nYNoC:
-    citations: 15
+    citations: 16
     title: Achieving flexible fairness metrics in federated medical imaging
     year: '2025'
   W4j1qIYAAAAJ:Y0pCki6q_DkC:
@@ -78,7 +78,7 @@ papers:
     title: UAV-Enabled Fluid Antenna Systems for Multi-Target Wireless Sensing over LAWCNs
     year: '2026'
   W4j1qIYAAAAJ:qjMakFHDy7sC:
-    citations: 31
+    citations: 32
     title: Joint signal detection and automatic modulation classification via deep learning
     year: '2024'
   W4j1qIYAAAAJ:roLk4NBRz8UC:
@@ -98,6 +98,6 @@ papers:
     title: 'Latency minimization for UAV-enabled federated learning: Trajectory design and resource allocation'
     year: '2025'
   W4j1qIYAAAAJ:zYLM7Y9cAGgC:
-    citations: 61
+    citations: 62
     title: 'UAV-enabled wireless networks with movable-antenna array: Flexible beamforming and trajectory design'
     year: '2024'

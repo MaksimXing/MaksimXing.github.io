@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-11'
 papers:
   W4j1qIYAAAAJ:0EnyYjriUFMC:
-    citations: 4
+    citations: 5
     title: Full-duplex integrated sensing, communication, and computation over low-altitude wireless networks
     year: '2025'
   W4j1qIYAAAAJ:2osOgNQ5qMEC:
@@ -14,7 +14,7 @@ papers:
     title: Movable-Antenna Enabled Robust Vehicular Consumer Networks Under Imperfect CSI
     year: '2026'
   W4j1qIYAAAAJ:5nxA0vEk-isC:
-    citations: 1
+    citations: 3
     title: Joint beamforming and resource coordination for RIS-aided ISAC over secure LAWNs
     year: '2026'
   W4j1qIYAAAAJ:8k81kl-MbHgC:
@@ -30,7 +30,7 @@ papers:
     title: Joint association, beamforming, and resource allocation for multi-IRS enabled MU-MISO systems with RSMA
     year: '2024'
   W4j1qIYAAAAJ:LkGwnXOMwfcC:
-    citations: 20
+    citations: 21
     title: Age of information minimization in UAV-enabled IoT networks via federated reinforcement learning
     year: '2025'
   W4j1qIYAAAAJ:MXK_kJrjxJIC:
@@ -38,7 +38,7 @@ papers:
     title: 'Wireless Human Activity Recognition: A Survey of Recent Advances and a Novel Zero-Shot LLM-Based Inference Framework'
     year: '2026'
   W4j1qIYAAAAJ:Se3iqnhoufwC:
-    citations: 10
+    citations: 11
     title: Movable-Antenna Empowered AAV-Enabled Data Collection Over Low-Altitude Wireless Networks
     year: '2025'
   W4j1qIYAAAAJ:Tyk-4Ss8FVUC:
@@ -46,7 +46,7 @@ papers:
     title: Over-the-air computation in OFDM systems with imperfect channel state information
     year: '2023'
   W4j1qIYAAAAJ:UeHWp8X0CEIC:
-    citations: 43
+    citations: 45
     title: Joint trajectory design and resource allocation in UAV-enabled heterogeneous MEC systems
     year: '2024'
   W4j1qIYAAAAJ:UebtZRa9Y70C:
@@ -58,7 +58,7 @@ papers:
     title: Intelligent reflecting surface aided mobile edge computing with rate-splitting multiple access
     year: '2024'
   W4j1qIYAAAAJ:WF5omc3nYNoC:
-    citations: 18
+    citations: 20
     title: Achieving flexible fairness metrics in federated medical imaging
     year: '2025'
   W4j1qIYAAAAJ:Y0pCki6q_DkC:
@@ -74,7 +74,7 @@ papers:
     title: 'Full-duplex ISCC for low-altitude networks: Resource allocation and coordinated beamforming'
     year: '2025'
   W4j1qIYAAAAJ:d1gkVwhDpl0C:
-    citations: 12
+    citations: 13
     title: Dual attention based feature pyramid network
     year: '2020'
   W4j1qIYAAAAJ:eQOLeE2rZwMC:
@@ -82,7 +82,7 @@ papers:
     title: 'Wireless control over edge networks: Joint user association and communication-computation co-design'
     year: '2025'
   W4j1qIYAAAAJ:hqOjcs7Dif8C:
-    citations: 3
+    citations: 4
     title: UAV-Enabled Fluid Antenna Systems for Multi-Target Wireless Sensing over LAWCNs
     year: '2026'
   W4j1qIYAAAAJ:qjMakFHDy7sC:
@@ -106,6 +106,6 @@ papers:
     title: 'Latency minimization for UAV-enabled federated learning: Trajectory design and resource allocation'
     year: '2025'
   W4j1qIYAAAAJ:zYLM7Y9cAGgC:
-    citations: 65
+    citations: 67
     title: 'UAV-enabled wireless networks with movable-antenna array: Flexible beamforming and trajectory design'
     year: '2024'

@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-25'
 papers:
   W4j1qIYAAAAJ:0EnyYjriUFMC:
-    citations: 5
+    citations: 6
     title: Full-duplex integrated sensing, communication, and computation over low-altitude wireless networks
     year: '2025'
   W4j1qIYAAAAJ:2osOgNQ5qMEC:
@@ -42,11 +42,11 @@ papers:
     title: Movable-Antenna Empowered AAV-Enabled Data Collection Over Low-Altitude Wireless Networks
     year: '2025'
   W4j1qIYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 14
+    citations: 16
     title: Over-the-air computation in OFDM systems with imperfect channel state information
     year: '2023'
   W4j1qIYAAAAJ:UeHWp8X0CEIC:
-    citations: 46
+    citations: 47
     title: Joint trajectory design and resource allocation in UAV-enabled heterogeneous MEC systems
     year: '2024'
   W4j1qIYAAAAJ:UebtZRa9Y70C:
@@ -58,7 +58,7 @@ papers:
     title: Intelligent reflecting surface aided mobile edge computing with rate-splitting multiple access
     year: '2024'
   W4j1qIYAAAAJ:WF5omc3nYNoC:
-    citations: 20
+    citations: 23
     title: Achieving flexible fairness metrics in federated medical imaging
     year: '2025'
   W4j1qIYAAAAJ:Y0pCki6q_DkC:
@@ -90,7 +90,7 @@ papers:
     title: Joint signal detection and automatic modulation classification via deep learning
     year: '2024'
   W4j1qIYAAAAJ:roLk4NBRz8UC:
-    citations: 2
+    citations: 3
     title: Coordinated beamforming for RIS-Empowered ISAC systems over secure Low-Altitude networks
     year: '2025'
   W4j1qIYAAAAJ:u-x6o8ySG0sC:
@@ -98,11 +98,11 @@ papers:
     title: Cybertwin-driven multi-intelligent reflecting surfaces aided vehicular edge computing leveraged by deep reinforcement learning
     year: '2022'
   W4j1qIYAAAAJ:u5HHmVD_uO8C:
-    citations: 11
+    citations: 12
     title: Blockchain-empowered space-air-ground integrated networks for remote internet of things
     year: '2023'
   W4j1qIYAAAAJ:ufrVoPGSRksC:
-    citations: 19
+    citations: 22
     title: 'Latency minimization for UAV-enabled federated learning: Trajectory design and resource allocation'
     year: '2025'
   W4j1qIYAAAAJ:zYLM7Y9cAGgC:

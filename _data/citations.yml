@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-05-27'
 papers:
   W4j1qIYAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -46,7 +46,7 @@ papers:
     title: Over-the-air computation in OFDM systems with imperfect channel state information
     year: '2023'
   W4j1qIYAAAAJ:UeHWp8X0CEIC:
-    citations: 47
+    citations: 48
     title: Joint trajectory design and resource allocation in UAV-enabled heterogeneous MEC systems
     year: '2024'
   W4j1qIYAAAAJ:UebtZRa9Y70C:
@@ -106,6 +106,6 @@ papers:
     title: 'Latency minimization for UAV-enabled federated learning: Trajectory design and resource allocation'
     year: '2025'
   W4j1qIYAAAAJ:zYLM7Y9cAGgC:
-    citations: 67
+    citations: 68
     title: 'UAV-enabled wireless networks with movable-antenna array: Flexible beamforming and trajectory design'
     year: '2024'

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-08'
 papers:
   W4j1qIYAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -30,7 +30,7 @@ papers:
     title: Joint association, beamforming, and resource allocation for multi-IRS enabled MU-MISO systems with RSMA
     year: '2024'
   W4j1qIYAAAAJ:LkGwnXOMwfcC:
-    citations: 25
+    citations: 28
     title: Age of information minimization in UAV-enabled IoT networks via federated reinforcement learning
     year: '2025'
   W4j1qIYAAAAJ:MXK_kJrjxJIC:
@@ -46,7 +46,7 @@ papers:
     title: Over-the-air computation in OFDM systems with imperfect channel state information
     year: '2023'
   W4j1qIYAAAAJ:UeHWp8X0CEIC:
-    citations: 50
+    citations: 51
     title: Joint trajectory design and resource allocation in UAV-enabled heterogeneous MEC systems
     year: '2024'
   W4j1qIYAAAAJ:UebtZRa9Y70C:
@@ -58,11 +58,11 @@ papers:
     title: Intelligent reflecting surface aided mobile edge computing with rate-splitting multiple access
     year: '2024'
   W4j1qIYAAAAJ:WF5omc3nYNoC:
-    citations: 26
+    citations: 28
     title: Achieving flexible fairness metrics in federated medical imaging
     year: '2025'
   W4j1qIYAAAAJ:Y0pCki6q_DkC:
-    citations: 16
+    citations: 18
     title: Latency-aware resource allocation for mobile edge generation and computing via deep reinforcement learning
     year: '2024'
   W4j1qIYAAAAJ:YsMSGLbcyi4C:
@@ -86,7 +86,7 @@ papers:
     title: UAV-Enabled Fluid Antenna Systems for Multi-Target Wireless Sensing over LAWCNs
     year: '2026'
   W4j1qIYAAAAJ:qjMakFHDy7sC:
-    citations: 41
+    citations: 43
     title: Joint signal detection and automatic modulation classification via deep learning
     year: '2024'
   W4j1qIYAAAAJ:roLk4NBRz8UC:
@@ -102,10 +102,10 @@ papers:
     title: Blockchain-empowered space-air-ground integrated networks for remote internet of things
     year: '2023'
   W4j1qIYAAAAJ:ufrVoPGSRksC:
-    citations: 23
+    citations: 24
     title: 'Latency minimization for UAV-enabled federated learning: Trajectory design and resource allocation'
     year: '2025'
   W4j1qIYAAAAJ:zYLM7Y9cAGgC:
-    citations: 71
+    citations: 74
     title: 'UAV-enabled wireless networks with movable-antenna array: Flexible beamforming and trajectory design'
     year: '2024'

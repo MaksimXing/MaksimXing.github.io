@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-07'
 papers:
   W4j1qIYAAAAJ:0EnyYjriUFMC:
-    citations: 6
+    citations: 9
     title: Full-duplex integrated sensing, communication, and computation over low-altitude wireless networks
     year: '2025'
   W4j1qIYAAAAJ:2osOgNQ5qMEC:
@@ -10,11 +10,11 @@ papers:
     title: Mobility Improves the Performance of Collaborated Spectrum Sensing
     year: '2020'
   W4j1qIYAAAAJ:3fE2CSJIrl8C:
-    citations: 0
+    citations: 1
     title: Movable-Antenna Enabled Robust Vehicular Consumer Networks Under Imperfect CSI
     year: '2026'
   W4j1qIYAAAAJ:5nxA0vEk-isC:
-    citations: 4
+    citations: 5
     title: Joint beamforming and resource coordination for RIS-aided ISAC over secure LAWNs
     year: '2026'
   W4j1qIYAAAAJ:8k81kl-MbHgC:
@@ -22,31 +22,35 @@ papers:
     title: Short Ticketing Detection Framework Analysis Report
     year: '2025'
   W4j1qIYAAAAJ:9yKSN-GCB0IC:
-    citations: 11
+    citations: 13
     title: Learning to hybrid offload in space-air-ground integrated mobile edge computing for IoT networks
     year: '2023'
   W4j1qIYAAAAJ:IjCSPb-OGe4C:
     citations: 18
     title: Joint association, beamforming, and resource allocation for multi-IRS enabled MU-MISO systems with RSMA
     year: '2024'
+  W4j1qIYAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: 'Mobile Edge Computing with Retrieval-Augmented Large Language Models: A Tutorial'
+    year: '2026'
   W4j1qIYAAAAJ:LkGwnXOMwfcC:
-    citations: 28
+    citations: 34
     title: Age of information minimization in UAV-enabled IoT networks via federated reinforcement learning
     year: '2025'
   W4j1qIYAAAAJ:MXK_kJrjxJIC:
-    citations: 0
+    citations: 1
     title: 'Wireless Human Activity Recognition: A Survey of Recent Advances and a Novel Zero-Shot LLM-Based Inference Framework'
     year: '2026'
   W4j1qIYAAAAJ:Se3iqnhoufwC:
-    citations: 12
-    title: Movable-Antenna Empowered AAV-Enabled Data Collection Over Low-Altitude Wireless Networks
+    citations: 15
+    title: Movable-antenna empowered AAV-enabled data collection over low-altitude wireless networks
     year: '2025'
   W4j1qIYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 17
+    citations: 22
     title: Over-the-air computation in OFDM systems with imperfect channel state information
     year: '2023'
   W4j1qIYAAAAJ:UeHWp8X0CEIC:
-    citations: 51
+    citations: 58
     title: Joint trajectory design and resource allocation in UAV-enabled heterogeneous MEC systems
     year: '2024'
   W4j1qIYAAAAJ:UebtZRa9Y70C:
@@ -58,7 +62,7 @@ papers:
     title: Intelligent reflecting surface aided mobile edge computing with rate-splitting multiple access
     year: '2024'
   W4j1qIYAAAAJ:WF5omc3nYNoC:
-    citations: 28
+    citations: 29
     title: Achieving flexible fairness metrics in federated medical imaging
     year: '2025'
   W4j1qIYAAAAJ:Y0pCki6q_DkC:
@@ -70,7 +74,7 @@ papers:
     title: 'When UAV meets federated learning: Latency minimization via joint trajectory design and resource allocation'
     year: '2024'
   W4j1qIYAAAAJ:_FxGoFyzp5QC:
-    citations: 3
+    citations: 4
     title: 'Full-duplex ISCC for low-altitude networks: Resource allocation and coordinated beamforming'
     year: '2025'
   W4j1qIYAAAAJ:d1gkVwhDpl0C:
@@ -82,11 +86,15 @@ papers:
     title: 'Wireless control over edge networks: Joint user association and communication-computation co-design'
     year: '2025'
   W4j1qIYAAAAJ:hqOjcs7Dif8C:
-    citations: 5
-    title: UAV-Enabled Fluid Antenna Systems for Multi-Target Wireless Sensing over LAWCNs
+    citations: 6
+    title: UAV-enabled fluid antenna systems for multi-target wireless sensing over LAWCNs
+    year: '2026'
+  W4j1qIYAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: Topology-Aware Embedding Network for Label-Free Radio Map Construction
     year: '2026'
   W4j1qIYAAAAJ:qjMakFHDy7sC:
-    citations: 43
+    citations: 45
     title: Joint signal detection and automatic modulation classification via deep learning
     year: '2024'
   W4j1qIYAAAAJ:roLk4NBRz8UC:
@@ -94,18 +102,18 @@ papers:
     title: Coordinated beamforming for RIS-Empowered ISAC systems over secure Low-Altitude networks
     year: '2025'
   W4j1qIYAAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 13
     title: Cybertwin-driven multi-intelligent reflecting surfaces aided vehicular edge computing leveraged by deep reinforcement learning
     year: '2022'
   W4j1qIYAAAAJ:u5HHmVD_uO8C:
-    citations: 12
+    citations: 13
     title: Blockchain-empowered space-air-ground integrated networks for remote internet of things
     year: '2023'
   W4j1qIYAAAAJ:ufrVoPGSRksC:
-    citations: 24
+    citations: 27
     title: 'Latency minimization for UAV-enabled federated learning: Trajectory design and resource allocation'
     year: '2025'
   W4j1qIYAAAAJ:zYLM7Y9cAGgC:
-    citations: 74
+    citations: 80
     title: 'UAV-enabled wireless networks with movable-antenna array: Flexible beamforming and trajectory design'
     year: '2024'

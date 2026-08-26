@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-26'
 papers:
   W4j1qIYAAAAJ:0EnyYjriUFMC:
     citations: 10
@@ -10,7 +10,7 @@ papers:
     title: Mobility Improves the Performance of Collaborated Spectrum Sensing
     year: '2020'
   W4j1qIYAAAAJ:3fE2CSJIrl8C:
-    citations: 2
+    citations: 3
     title: Movable-Antenna Enabled Robust Vehicular Consumer Networks Under Imperfect CSI
     year: '2026'
   W4j1qIYAAAAJ:5nxA0vEk-isC:
@@ -26,7 +26,7 @@ papers:
     title: Learning to hybrid offload in space-air-ground integrated mobile edge computing for IoT networks
     year: '2023'
   W4j1qIYAAAAJ:IjCSPb-OGe4C:
-    citations: 18
+    citations: 19
     title: Joint association, beamforming, and resource allocation for multi-IRS enabled MU-MISO systems with RSMA
     year: '2024'
   W4j1qIYAAAAJ:KlAtU1dfN6UC:
@@ -38,17 +38,21 @@ papers:
     title: Age of information minimization in UAV-enabled IoT networks via federated reinforcement learning
     year: '2025'
   W4j1qIYAAAAJ:MXK_kJrjxJIC:
-    citations: 1
+    citations: 2
     title: 'Wireless Human Activity Recognition: A Survey of Recent Advances and a Novel Zero-Shot LLM-Based Inference Framework'
     year: '2026'
   W4j1qIYAAAAJ:Se3iqnhoufwC:
-    citations: 15
+    citations: 16
     title: Movable-antenna empowered AAV-enabled data collection over low-altitude wireless networks
     year: '2025'
   W4j1qIYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 22
+    citations: 23
     title: Over-the-air computation in OFDM systems with imperfect channel state information
     year: '2023'
+  W4j1qIYAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: 'Demystifying CNNs: The Role of Domain Knowledge in Enhancing Interpretability and Efficiency [Lecture Notes]'
+    year: '2026'
   W4j1qIYAAAAJ:UeHWp8X0CEIC:
     citations: 59
     title: Joint trajectory design and resource allocation in UAV-enabled heterogeneous MEC systems
@@ -62,7 +66,7 @@ papers:
     title: Intelligent reflecting surface aided mobile edge computing with rate-splitting multiple access
     year: '2024'
   W4j1qIYAAAAJ:WF5omc3nYNoC:
-    citations: 30
+    citations: 32
     title: Achieving flexible fairness metrics in federated medical imaging
     year: '2025'
   W4j1qIYAAAAJ:Y0pCki6q_DkC:
@@ -94,11 +98,11 @@ papers:
     title: UAV-enabled fluid antenna systems for multi-target wireless sensing over LAWCNs
     year: '2026'
   W4j1qIYAAAAJ:kNdYIx-mwKoC:
-    citations: 0
+    citations: 1
     title: Topology-Aware Embedding Network for Label-Free Radio Map Construction
     year: '2026'
   W4j1qIYAAAAJ:qjMakFHDy7sC:
-    citations: 47
+    citations: 48
     title: Joint signal detection and automatic modulation classification via deep learning
     year: '2024'
   W4j1qIYAAAAJ:roLk4NBRz8UC:
